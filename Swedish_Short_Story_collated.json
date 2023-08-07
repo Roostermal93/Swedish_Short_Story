@@ -1,5 +1,5 @@
 {
-    "count": 5,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
@@ -32,11 +32,25 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Swedish/b78fa5c5-8c77-4a88-9e53-a341d3dc0bc1_sv_Female.mp4"
         },
         {
+            "id": "913d632f-2d14-463f-95c0-0fcd0024a7e5",
+            "collectionId": "Swedish",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Swedish/913d632f-2d14-463f-95c0-0fcd0024a7e5_sv_Male.mp4"
+        },
+        {
             "id": "25330671-d612-4efd-b107-1cb68d2e5c7b",
             "collectionId": "Swedish",
             "type": "Short_Story",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Swedish/25330671-d612-4efd-b107-1cb68d2e5c7b_sv_Female.mp4"
+        },
+        {
+            "id": "7168b93d-ab71-4bc3-bf00-fc9402c97a1c",
+            "collectionId": "Swedish",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Swedish/7168b93d-ab71-4bc3-bf00-fc9402c97a1c_sv_Female.mp4"
         }
     ]
 }
